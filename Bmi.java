@@ -4,10 +4,10 @@
  * and open the template in the editor.
  */
 package bmi;
-
+//THIS IS BMI
 /**
  *
- * @author Aaliya Mehdi
+ * 
  */
 import java.util.*;
 public class Bmi {
